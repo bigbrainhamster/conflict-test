@@ -1,1 +1,3 @@
 # conflict-test
+
+test2
